@@ -1,0 +1,20 @@
+.form-heading{
+    font-size: 50px;
+}
+
+.form-header{
+    text-align: left;
+}
+
+.radio-btn{
+    display: flex;
+}
+
+.form-textarea{
+    height: 200px;
+}
+
+form p{
+    text-align: left;
+    font-size: 18px;
+}
